@@ -1,2 +1,2 @@
 # user-management-app
-Created with CodeSandbox
+this is user-management app for tutorial react and typescript
